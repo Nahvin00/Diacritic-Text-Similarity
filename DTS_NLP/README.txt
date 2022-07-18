@@ -1,14 +1,4 @@
-Natural Language Processing | Group Project
-
 Title: Diacritic Text Similarity 
-Group A Members:
-1. Ding Xue Wing (B031910353)
-2. Yoong Cheng Nee (B031910119)
-3. Muhammad Zaid Aqil Bin Waheed Rahman (B031910152)
-4. Nahvin Muthusamy (B031910127)
-
-Link to Presentation Video: https://youtu.be/DaYtGo3bji4
-
 
 Notes:
 
@@ -31,9 +21,6 @@ Notes:
 6. Click on Diacritic Text Similarity(shortcut) and run the 
    application. This shortcut can be placed anywhere in your system 
    and works fine as long as no modification to root directory.
-7. If you encounter any problem with the installation of the 
-   application or not being able to run the application, please
-   contact Nahvin Muthusamy (b031910127@student.utem.edu.my).
 
 Thank you. Have a nice day.
 
