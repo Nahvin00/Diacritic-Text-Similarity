@@ -23,5 +23,3 @@ Notes:
    and works fine as long as no modification to root directory.
 
 Thank you. Have a nice day.
-
-
